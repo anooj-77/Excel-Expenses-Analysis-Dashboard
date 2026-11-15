@@ -14,7 +14,8 @@ The dashboard combines multiple analytical views into a single interface, making
 
 ## 🖥️ Dashboard Preview
 
-![Excel-Expenses-Analysis-Dashboard](ex-dashboard sreenshot.png)
+<img width="1877" height="929" alt="ex-dashboard sreenshot" src="https://github.com/user-attachments/assets/ee6d5d62-3ec8-4e5b-aec5-d201b7610250" />
+
 
 *Interactive Expenses Analysis Dashboard – Financial Year 2020–2027*
 
