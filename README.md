@@ -14,7 +14,7 @@ The dashboard combines multiple analytical views into a single interface, making
 
 ## 🖥️ Dashboard Preview
 
-![Expenses Analysis Dashboard](images/expenses-dashboard.png)
+![Expenses Analysis Dashboard](ex-dashboard sreenshot.png)
 
 *Interactive Expenses Analysis Dashboard – Financial Year 2020–2027*
 
